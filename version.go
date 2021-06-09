@@ -3,6 +3,7 @@ package version
 import (
     "fmt"
     "github.com/teris-io/shortid"
+)
 
 // Hello returns a greeting for the named person.
 func Hello(name string) string {
